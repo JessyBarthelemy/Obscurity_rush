@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Bulb
+  - Energy
+  - Energy_up
+  - Energy_down
+  - Speed_down
+  - Speed_up
+  - Super_energy
+  - Bulb_pack
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1319780667
+    locked: 0
+  - name: GameArea
+    uniqueID: 2248796793
+    locked: 0
+  - name: Luminosity
+    uniqueID: 827728999
+    locked: 0
+  - name: Parameter
+    uniqueID: 3096511251
+    locked: 0

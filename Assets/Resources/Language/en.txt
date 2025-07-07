@@ -1,0 +1,90 @@
+play:PLAY
+best_score:BEST SCORE
+game_over:Game Over
+score:Score
+best:BEST
+replay:REPLAY
+shop:SHOP
+buy:BUY
+yes:YES
+no:NO
+buy_confirm:Are you sure you want to buy this item?
+buy_confirm_skin:Are you sure you want to buy the skin "$"?
+buy_confirm_music:Are you sure you want to buy the music "$"?
+play_service_login_error:Not connected to play game
+purchase_error:Error. Check your connection.
+first_pack:Pack 2000 bulbs
+second_pack:Pack 5000 bulbs
+third_pack:Pack 10,000 bulbs
+buy_success:Item bought sucessfully
+about:About
+sound:Sound
+contact:Contact
+back:Back
+achievments:ACHIEVMENTS
+electric:ELECTRIC
+snow:SNOW
+electric_blue:ELECTRIC BLUE
+pink:PINK
+space:SPACE
+lava:LAVA
+dark:DARK
+nuclear:NUCLEAR
+rainbow:RAINBOW
+deutschland:DEUTSCHLAND
+france:FRANCE
+ireland:IRELAND
+italy:ITALY
+rusia:RUSIA
+spain:SPAIN
+poison:POISON
+race:RACE
+retro:RETRO
+fiesta:FIESTA
+electro:ELECTRO
+jazz:JAZZ
+pirate:PIRATE
+achievment_unlocked:Achievment unlocked
+ach_1:Get a score of 500 or more
+ach_2:Play 5 games
+ach_3:Collect 20 bulbs or more
+ach_4:Play Obscurity Rush 3 days in a row
+ach_5:Get a score between 500 and 650
+ach_6:Get a score of 750 or more
+ach_7:Play 20 games
+ach_8:Play Obscurity Rush 5 days in a row
+ach_9:Collect 40 bulbs or more
+ach_10:Collect 5 energy in a row
+ach_11:Collect 1 energy penalty
+ach_12:Get a score of 1000 or more
+ach_13:Collect 1 speed bonus
+ach_14:Unlock and play with the snow skin
+ach_15:Collect 1 energy bonus
+ach_16:Get a score between 800 and 950
+ach_17:Collect 8 energy in a row
+ach_18:Collect 1 speed penalty
+ach_19:Get a score of 1500 or more
+ach_20:Collect 5 energy bonuses
+ach_21:Get a score between 1150 and 1250
+ach_22:Unlock and play with the electric blue skin
+ach_23:Collect 5 speed bonuses
+ach_24:Collect 12 energy in a row
+ach_25:Collect 60 bulbs or more
+ach_26:Collect 5 energy penalties
+ach_27:Get a score between 1400 and 1550
+ach_28:Collect 5 speed penalties
+ach_29:Collect 15 energy in a row
+next:Next
+tutorial_1:Move by sliding your finger horizontally
+tutorial_2_1:The luminosity is continuously decreasing
+tutorial_2_2:Pick the lightning to increase the screen luminosity.
+bonus:BONUSES
+malus:MALUSES
+tutorial_3_1:Allow you to buy item in the shop
+tutorial_3_2:Increase the battery capacity
+tutorial_3_3:Slow down time
+tutorial_3_4:Partially refill your battery
+tutorial_3_5:Fully refill your battery
+tutorial_3_6:Decrease the battery capacity
+tutorial_3_7:Speed up time
+help:HELP

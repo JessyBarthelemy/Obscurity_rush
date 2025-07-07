@@ -1,0 +1,89 @@
+﻿play:JOUER
+best_score:MEILLEUR SCORE
+game_over:Fin de partie
+score:Score
+best:MEILLEUR
+replay:REJOUER
+shop:BOUTIQUE
+buy:ACHETER
+yes:OUI
+no:NON
+buy_confirm_skin:Êtes-vous sûr de vouloir acheter le costume "$" ?
+buy_confirm_music:Êtes-vous sûr de vouloir acheter la musique "$" ?
+play_service_login_error:Non connecté à play jeux
+purchase_error:Erreur pendant l'achat
+first_pack:Pack 2000 lampes
+second_pack:Pack 5000 lampes
+third_pack:Pack 10 000 lampes
+buy_success:Achat réussi
+about:A Propos
+sound:Son
+contact:Contact
+back:Retour
+achievments:MISSIONS
+electric:ELECTRIQUE
+snow:NEIGE
+electric_blue:TONERRE
+pink:BONBON
+space:ESPACE
+lava:LAVE
+dark:SOMBRE
+nuclear:NUCLEAIRE
+rainbow:ARC EN CIEL
+deutschland:ALLEMAGNE
+france:FRANCE
+ireland:IRLANDE
+italy:ITALIE
+rusia:RUSSIE
+spain:ESPAGNE
+poison:POISON
+race:COURSE
+retro:RETRO
+fiesta:FIESTA
+electro:ELECTRO
+jazz:JAZZ
+pirate:PIRATE
+achievment_unlocked:Objectif atteint
+ach_1:Obtenir un score de plus de 500
+ach_2:Jouer 5 parties
+ach_3:Ramasser au moins 20 lampes
+ach_4:Jouer à Obscurity Rush 3 jours de suite
+ach_5:Finir avec un score entre 500 et 650
+ach_6:Obtenir un score de plus de 750
+ach_7:Jouer 20 parties
+ach_8:Jouer à Obscurity Rush 5 jours de suite
+ach_9:Ramasser au moins 40 lampes
+ach_10:Ramasser 5 énergies de suite
+ach_11:Ramasser 1 malus d'énergie
+ach_12:Obtenir un score de plus de 1000
+ach_13:Ramasser 1 bonus de vitesse
+ach_14:Débloquer et Jouer avec le Skin neige
+ach_15:Ramasser 1 bonus d'énergie
+ach_16:Finir avec un score entre 800 et 950
+ach_17:Ramasser 8 énergies de suite
+ach_18:Ramasser 1 malus de vitesse
+ach_19:Obtenir un score de plus de 1500
+ach_20:Ramasser 5 bonus d'énergies
+ach_21:Finir avec un score entre 1150 et 1250
+ach_22:Débloquer et Jouer avec le Skin tonnerre
+ach_23:Ramasser 5 bonus de vitesse
+ach_24:Ramasser 12 énergies de suite
+ach_25:Ramasser au moins 60 lampes
+ach_26:Ramasser 5 malus d'énergies
+ach_27:Finir avec un score entre 1400 et 1550
+ach_28:Ramasser 5 malus de vitesse
+ach_29:Ramasser 15 énergies de suite
+next:Suivant
+bonus:BONUS
+malus:MALUS
+tutorial_1:Déplacez vous en glissant votre doigt horizontalement
+tutorial_2_1:La luminosité baisse avec le temps.
+tutorial_2_2:Récupère les éclairs pour augmenter la luminosité de l'écran.
+tutorial_3_1:Permets d'acheter des objets dans la boutique
+tutorial_3_2:Augmente la capacité de votre batterie
+tutorial_3_3:Ralentis le temps
+tutorial_3_4:Recharge partiellement votre batterie
+tutorial_3_5:Recharge totalement votre batterie
+tutorial_3_6:Diminue la capacité de votre batterie
+tutorial_3_7:Accélère le temps
+help:AIDE
