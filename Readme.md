@@ -37,4 +37,4 @@ Accumulez de la monnaie en jouant et accédez à un **shop** où vous pouvez :
 - Développé sous **Unity** (2D)
 
 📱 **Disponible sur le Play Store** :  
-👉 [Télécharger Electric Rush](https://play.google.com/store/apps/details?id=com.jess_barthelemy.obscurity_rush&pli=1)
+👉 [Télécharger Obscurity Rush](https://play.google.com/store/apps/details?id=com.jess_barthelemy.obscurity_rush&pli=1)
